@@ -1,2 +1,2 @@
-git is one control system
+git is one distributed control system
 git is free
